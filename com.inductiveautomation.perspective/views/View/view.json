@@ -1,0 +1,25 @@
+{
+  "custom": {},
+  "params": {},
+  "props": {},
+  "root": {
+    "children": [
+      {
+        "meta": {
+          "name": "CylindricalTank"
+        },
+        "position": {
+          "height": 160,
+          "width": 136,
+          "x": 325,
+          "y": 163
+        },
+        "type": "ia.display.cylindrical-tank"
+      }
+    ],
+    "meta": {
+      "name": "root"
+    },
+    "type": "ia.container.coord"
+  }
+}
